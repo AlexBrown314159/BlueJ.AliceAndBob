@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=friend
+comment2.target=void\ greeting(java.lang.String)
+comment3.params=stranger
+comment3.target=void\ who(java.lang.String)
+numComments=4
